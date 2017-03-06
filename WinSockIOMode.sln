@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WinSockIOMode", "WinSockIOM
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Srv_Select", "Srv_Select\Srv_Select.vcxproj", "{F7E74BAE-4F71-4643-8452-030B8C4430C4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Client", "Client\Client.vcxproj", "{747EFD34-6D33-47F0-B653-9CD8A9887AC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -21,6 +23,10 @@ Global
 		{F7E74BAE-4F71-4643-8452-030B8C4430C4}.Debug|Win32.Build.0 = Debug|Win32
 		{F7E74BAE-4F71-4643-8452-030B8C4430C4}.Release|Win32.ActiveCfg = Release|Win32
 		{F7E74BAE-4F71-4643-8452-030B8C4430C4}.Release|Win32.Build.0 = Release|Win32
+		{747EFD34-6D33-47F0-B653-9CD8A9887AC2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{747EFD34-6D33-47F0-B653-9CD8A9887AC2}.Debug|Win32.Build.0 = Debug|Win32
+		{747EFD34-6D33-47F0-B653-9CD8A9887AC2}.Release|Win32.ActiveCfg = Release|Win32
+		{747EFD34-6D33-47F0-B653-9CD8A9887AC2}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
